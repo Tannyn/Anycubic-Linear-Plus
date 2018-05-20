@@ -506,6 +506,7 @@
   #define DELTA_ENDSTOP_ADJ { 0.0, 0.0, 0.0 } // get these from auto calibrate
 
   // Horizontal distance bridged by diagonal push rods when effector is centered.
+<<<<<<< HEAD
   //#define DELTA_RADIUS 134.4 //mm  Get this value from auto calibrate
 
   // Horizontal offset from middle of printer to smooth rod center.
